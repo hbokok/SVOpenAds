@@ -1,0 +1,16 @@
+PODS:
+  - SVOpenAds (0.1.0)
+
+DEPENDENCIES:
+  - SVOpenAds (from `../`)
+
+EXTERNAL SOURCES:
+  SVOpenAds:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SVOpenAds: 6c8dd47290653b82c02a967d1dea25f4b0136804
+
+PODFILE CHECKSUM: 6b5e6b9386f293a4cba0353fe168861058bc6e8d
+
+COCOAPODS: 1.14.3
