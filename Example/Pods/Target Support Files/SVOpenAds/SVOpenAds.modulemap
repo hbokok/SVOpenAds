@@ -1,0 +1,6 @@
+framework module SVOpenAds {
+  umbrella header "SVOpenAds-umbrella.h"
+
+  export *
+  module * { export * }
+}

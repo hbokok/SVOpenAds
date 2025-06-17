@@ -1,0 +1,6 @@
+framework module Pods_SVOpenAds_Tests {
+  umbrella header "Pods-SVOpenAds_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
